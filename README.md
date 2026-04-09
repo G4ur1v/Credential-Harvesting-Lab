@@ -11,8 +11,12 @@ Technical analysis and Proof-of-Concept (PoC) of phishing simulations using Term
 🛡️ 𝗣𝗵𝗶𝘀𝗵𝗶𝗻𝗴 𝗦𝗶𝗺𝘂𝗹𝗮𝘁𝗶𝗼𝗻 & 𝗦𝗼𝗰𝗶𝗮𝗹 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝗶𝗻𝗴 𝗔𝗻𝗮𝗹𝘆𝘀𝗶𝘀.
 -------------------------------------------------------------------------------
 𝐄𝐧𝐯𝐢𝐫𝐨𝐧𝐦𝐞𝐧𝐭.: Android (Termux) 
+
 𝐅𝐫𝐚𝐦𝐞𝐰𝐨𝐫𝐤.: Zphisher 
+
  𝐓𝐮𝐧𝐧𝐞𝐥𝐢𝐧𝐠.: Ngrok
+ 
+ 
 📖 𝐎𝐯𝐞𝐫𝐯𝐢𝐞𝐰.
 This repository serves as a Proof of Concept (PoC) for educational purposes. It documents a series of simulations performed during my early years (11th-12th grade) to understand how Social Engineering and WAN Tunneling are used to harvest credentials.
 The objective was to analyze the vulnerabilities in the "Human Element" of cybersecurity and study the technical infrastructure of automated phishing frameworks.
